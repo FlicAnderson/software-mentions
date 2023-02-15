@@ -1,3 +1,9 @@
+# datasets
 data/
+
+# coding
 .vscode/
 .ipynb_checkpoints/
+
+# private data
+config.cfg
