@@ -4,6 +4,7 @@ data/
 # coding
 .vscode/
 .ipynb_checkpoints/
+.idea/
 
 # private data
 config.cfg
