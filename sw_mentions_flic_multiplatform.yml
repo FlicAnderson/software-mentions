@@ -1,0 +1,11 @@
+name: sw_mentions
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pygithub
+  - tqdm
+prefix: /home/flic/miniconda3/envs/sw_mentions
